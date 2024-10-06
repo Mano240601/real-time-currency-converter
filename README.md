@@ -42,16 +42,3 @@ This is a simple and responsive **Realtime Currency Converter** that allows user
 ├── coinExchangeSticker.png # Coin exchange sticker image
 └── README.md          # This file
 
-### Steps for Uploading to GitHub:
-1. **Create a new repository** on GitHub.
-2. **Push the project files** to the repository using Git commands:
-    ```bash
-    git init
-    git add .
-    git commit -m "Initial commit"
-    git branch -M main
-    git remote add origin https://github.com/yourusername/realtime-currency-converter.git
-    git push -u origin main
-    ```
-
-3. **Verify** that your files, including the `README.md`, are uploaded properly and accessible.
